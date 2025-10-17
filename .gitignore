@@ -31,3 +31,4 @@ loglevel.log*
 
 # Testing
 coverage
+package-lock.json
